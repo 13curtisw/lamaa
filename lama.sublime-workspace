@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"dataNow"
+			],
+			[
+				"chosen",
+				"chosentab"
+			],
+			[
+				"cho",
+				"chosentab"
+			],
+			[
+				"nDa",
+				"nDaysBefore"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"n",
+				"ng-include	AngularJS"
+			],
+			[
+				"time",
+				"timelinechart"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"startO",
+				"startOfWeek"
+			],
+			[
+				"startof",
+				"startOfWeek"
+			],
+			[
+				"stroke",
+				"stroke-width"
+			],
+			[
+				"catego",
+				"category_color_code"
+			],
+			[
+				"categ",
+				"category_color_code"
+			],
+			[
+				"cate",
+				"category_color_code"
+			],
+			[
+				"date",
+				"dateItem"
+			],
+			[
+				"ex",
+				"extractAmounts"
+			],
+			[
+				"circ",
+				"circleSpacing"
+			],
+			[
+				"c",
+				"config	AngularJS"
+			],
+			[
+				"stro",
+				"stroke-width"
+			],
+			[
+				"max",
+				"maxRadius"
+			],
+			[
+				"cin",
+				"cinentries"
+			],
+			[
+				"cout",
+				"couttooltip"
+			],
+			[
+				"rec",
+				"rectanglechart"
+			],
+			[
+				"new",
+				"newCategory"
+			],
+			[
+				"current",
+				"currentEditCopy"
+			],
+			[
+				"currentEdit",
+				"currentEditCopy"
+			],
+			[
+				"currentErr",
+				"currentErrorMessage"
+			],
+			[
+				"cu",
+				"currentItemChildren"
+			],
+			[
+				"Cate",
+				"CategoryService"
+			],
+			[
+				"Ca",
+				"Category"
+			],
+			[
+				"parent",
+				"parentPath"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"curr",
+				"currentEditCopy"
+			],
+			[
+				"togg",
+				"toggleAll"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"ng-repeat",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"get",
+				"getParentPath"
+			],
+			[
+				"ti",
+				"tinycolor"
+			],
+			[
+				"dis",
+				"disabled"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title></title>\n</head>\n<body>\n\n</body>\n</html>",
+			"file": "lama.html",
+			"file_size": 78,
+			"file_write_time": 130896346280000000,
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/WeeklyDashboardChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/weeklycashflow.tpl.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/timelinechart/app.css",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/dashboard.css",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/timelinechart/TimelineChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/cashbalancechart/CashBalanceChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/timelinechart/timelinechartDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/cashbalancechart/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/timelinechart/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/Todo.md",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/datatable/DataTableController.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/timelinechart/timelinechart.tpl.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/es6api/Service.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/timelinechart/TimelineChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/timelinechart/TimelineChart.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/timelinechart/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/cashactivity.tpl.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/timelinechart/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/dashboard/weeklydashboardchartDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/payeesummarychart/hbarsvg.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/timelinechart/timelinechartDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/payeesummarychart/payeechart.tpl.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/timelinechart/app.css",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/payeesummarychart/PayeeSummaryChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/payeesummarychart/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/RectChart.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/RectChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/rectChartDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/test.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/dashboardchart/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/dashboardchart/TimelineChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/dashboardchart/timelinechartDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/dashboardchart/TimelineChart.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/rectanglechart.css",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/dashboardchart/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/dashboardchart/ToDo.md",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/Todo.md",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/SummaryChart/summarychart.tpl.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/SummaryChart/c3ChartDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/SummaryChart/C3SummaryChartCtrl.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/horizontalbarchart/HorizontalBarChart.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/charts/rectangechart/rectanglechartdata.tsv",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/repeatentries/HandsOnTableDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/es6api/CategoryService.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/categoriestable/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/categoriestable/ToDo.md",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/categoriestable/CategoryTreeController.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/es6api/CategoryTree.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/users2/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/users2/UsersController.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/table-play/tree-grid.css",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/services/category.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/users2/users.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/table-play/ToDo.md",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/table-play/bootstrap.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/table-play/CategoryTreeController.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/table-play/spectrumDirective.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/table-play/index.html",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/table-play/app.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/es6api/cashvue.services.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/services/services.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/bower_components/angular-ui-select/dist/select.css",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/services/user.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/users2/users.js",
+		"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/bower_components/angular-ui-select/dist/select.js",
+		"/Users/curtiswang1/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/curtiswang1/sdev/cashvue/cashvuehtml5/bower_components"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weeks",
+			"show",
+			"dateItem",
+			"data",
+			"item",
+			"data",
+			"sorted",
+			"length",
+			"console",
+			"tether",
+			"$scope",
+			"category",
+			"style",
+			"create",
+			"move",
+			"level",
+			"hasChildren",
+			"children",
+			"selected",
+			"btn",
+			"btn-default",
+			"#BDC3C7",
+			"buildMetaTree",
+			"metaTree",
+			"search"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lama.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lama.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
